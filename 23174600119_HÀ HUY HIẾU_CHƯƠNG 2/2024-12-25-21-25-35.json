@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "so_tien": 2000,
+        "loai": "thu"
+    },
+    {
+        "id": 2,
+        "so_tien": 10001000,
+        "loai": "chi"
+    },
+    {
+        "id": 3,
+        "so_tien": 5020,
+        "loai": "thu"
+    }
+]
